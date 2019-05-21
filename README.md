@@ -1,4 +1,4 @@
-# JDBC-Basic
+# JDBC-Basics
 
 Manipulating MySQL via JDBC
 
